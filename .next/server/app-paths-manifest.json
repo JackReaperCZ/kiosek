@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/kiosek/page": "app/kiosek/page.js",
+  "/admin/check/[id]/page": "app/admin/check/[id]/page.js",
+  "/login/page": "app/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/page": "app/page.js",
+  "/edit/[id]/page": "app/edit/[id]/page.js",
+  "/project/[id]/page": "app/project/[id]/page.js",
+  "/my-projects/page": "app/my-projects/page.js",
+  "/upload/page": "app/upload/page.js",
+  "/project-kiosek/[id]/page": "app/project-kiosek/[id]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
