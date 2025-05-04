@@ -302,7 +302,7 @@ export default function MyProjectsPage() {
 
             {filteredAndSortedProjects.length === 0 && (
               <div className="text-center py-12">
-                <p className="text-gray-500">Požná by to chtělo nějaké projekty 🤷.</p>
+                <p className="text-gray-500">Možná by to chtělo nějaké projekty 🤷.</p>
               </div>
             )}
           </div>
